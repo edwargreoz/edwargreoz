@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/edwargreoz/edwargreoz/blob/main/logo.png?raw=true" alt="EDXOZ Banner">
 </p>
-<h1 align="center">👋 Hola, soy Edwar Gonzales</h1>
+<h1 align="center">Hola, soy Edwar Gonzalez</h1>
 
 <h3 align="center">
 💻 Full Stack Developer • 🌐 Networking • 🔒 Cybersecurity
