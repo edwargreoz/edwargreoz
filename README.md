@@ -162,7 +162,7 @@ Me interesa crear aplicaciones funcionales, seguras y escalables utilizando tecn
         Aplicación web desarrollada utilizando tecnologías frontend, backend y una base de datos relacional.
       </p>
       <p align="center">
-        <a href="https://github.com/edwargreoz">
+        <a href="https://github.com/edwargreoz?tab=repositories">
           <img src="https://img.shields.io/badge/Ver%20proyecto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver proyecto">
         </a>
       </p>
@@ -225,16 +225,3 @@ Me interesa crear aplicaciones funcionales, seguras y escalables utilizando tecn
 
 </div>
 
----
-
-<div align="center">
-
-### ✨ «La tecnología cambia constantemente y aprender es parte del camino».
-
-<img src="https://komarev.com/ghpvc/?username=edwargreoz&label=Visitas%20al%20perfil&color=00bfff&style=for-the-badge" alt="Contador de visitas">
-
-<br><br>
-
-⭐ Gracias por visitar mi perfil.
-
-</div>
