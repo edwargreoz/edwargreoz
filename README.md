@@ -4,9 +4,9 @@
 
 # 👋 Hola, soy Edwar Gonzalez
 
-### 💻 Full Stack Developer | 🌐 Networking | 🔐 Cybersecurity
+### 💻 Full Stack Developer | 🏢 Creador de EG Engineering Group | ⚙️ Automatizaciones | 🔐 Cybersecurity
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Python+%7C+Django+Developer;PHP+%7C+Laravel+Developer;Networking+Student;Cybersecurity+Enthusiast;Always+Learning+New+Things" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Creador+de+EG+Engineering+Group;Full+Stack+Developer;Landing+Pages+y+Sistemas+Web;Automatizaciones;Python+%7C+Django+Developer;PHP+%7C+Laravel+Developer;Networking+Student;Cybersecurity+Enthusiast;Always+Learning+New+Things" alt="Typing SVG">
 
 <br>
 
@@ -26,11 +26,11 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante del **IX ciclo de Ingeniería de Sistemas**, apasionado por el desarrollo de software, las redes informáticas y la ciberseguridad.
+Soy **creador de EG Engineering Group**, donde desarrollo landing pages, sistemas web y automatizaciones a medida. También soy estudiante del **IX ciclo de Ingeniería de Sistemas**, apasionado por el desarrollo de software, las redes informáticas y la ciberseguridad.
 
 Me interesa crear aplicaciones funcionales, seguras y escalables utilizando tecnologías como **Python, Django, PHP, Laravel, JavaScript, Node.js y SQL**, combinando conocimientos de desarrollo frontend, backend, bases de datos y administración de sistemas.
 
-* 🔭 Actualmente desarrollo proyectos web y aplicaciones académicas.
+* 🔭 Actualmente desarrollo landing pages, sistemas web y automatizaciones, además de proyectos académicos.
 * 🌱 Continúo aprendiendo sobre **Django, Laravel, Node.js, redes y ciberseguridad**.
 * 💻 Desarrollo aplicaciones utilizando tecnologías frontend y backend.
 * 🗄️ Tengo conocimientos en bases de datos relacionales y consultas SQL.
@@ -39,6 +39,17 @@ Me interesa crear aplicaciones funcionales, seguras y escalables utilizando tecn
 * 🐧 Me interesa la administración de sistemas Linux.
 * 🤝 Estoy abierto a colaborar en proyectos tecnológicos.
 * 🚀 Mi objetivo es seguir creciendo como desarrollador Full Stack y especialista en seguridad informática.
+
+---
+
+## 🏢 EG Engineering Group
+
+Soy el creador de **EG Engineering Group**, donde ofrezco desarrollo full stack a medida:
+
+* 🌐 Landing pages y sitios web responsivos
+* 🧩 Sistemas web full stack (frontend, backend y base de datos)
+* ⚙️ Automatizaciones de procesos y flujos de trabajo
+* 🔌 Integraciones y APIs entre sistemas
 
 ---
 
@@ -191,6 +202,7 @@ Me interesa crear aplicaciones funcionales, seguras y escalables utilizando tecn
         </a>
       </p>
     </td>
+  </tr>
 </table>
 
 ---
@@ -211,7 +223,7 @@ Me interesa crear aplicaciones funcionales, seguras y escalables utilizando tecn
 
 <div align="center">
 
-<a href="www.linkedin.com/in/edwar-agustín-gonzález-requejo-577956420">
+<a href="https://www.linkedin.com/in/edwar-agustín-gonzález-requejo-577956420">
   <img src="https://img.shields.io/badge/LinkedIn-Edwar%20Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
