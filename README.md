@@ -4,17 +4,21 @@
 
 # 👋 Hola, soy Edwar Gonzalez
 
-### 💻 Full Stack Developer | 🏢 Creador de EG Engineering Group | ⚙️ Automatizaciones | 🔐 Cybersecurity
+### 💻 Full Stack Developer Freelance | 🏢 Creador de EG Engineering Group | ⚙️ n8n & IA | 🔐 Cybersecurity
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Creador+de+EG+Engineering+Group;Full+Stack+Developer;Freelance+Web+Developer;Landing+Pages+y+Sistemas+Web;Automatizaciones;Python+%7C+Django+Developer;PHP+%7C+Laravel+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Things" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Creador+de+EG+Engineering+Group;Desarrollador+Freelance+Remoto;Landing+Pages+y+Tiendas+Online;Sistemas+de+Gesti%C3%B3n;Automatizaciones+con+n8n;Bots+e+Inteligencia+Artificial;Java+Spring+Boot+%7C+Django;React+%7C+Tailwind+CSS;Cybersecurity+Enthusiast" alt="Typing SVG">
 
 <br>
 
-<img src="https://img.shields.io/badge/Freelance-Web%20%26%20Automatizaciones-007ACC?style=for-the-badge&logo=upwork&logoColor=white" alt="Freelance">
+<img src="https://img.shields.io/badge/Freelance-Remoto-007ACC?style=for-the-badge&logo=upwork&logoColor=white" alt="Freelance remoto">
+
+<img src="https://img.shields.io/badge/Spring%20Boot-Java-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
 
 <img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 
 <img src="https://img.shields.io/badge/Laravel-Backend-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+
+<img src="https://img.shields.io/badge/n8n-Automatizaciones-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
 
 <img src="https://img.shields.io/badge/Redes-Networking-F57C00?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking">
 
@@ -26,30 +30,31 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **desarrollador freelance** y **creador de EG Engineering Group**, donde desarrollo landing pages, sistemas web y automatizaciones a medida para mis clientes. Me apasiona el desarrollo de software, las redes informáticas y la ciberseguridad.
+Soy **desarrollador freelance remoto** y **creador de EG Engineering Group**. Ofrezco desarrollo web, sistemas de gestión, automatizaciones y asesoramiento técnico para negocios y emprendedores.
 
-Me interesa crear aplicaciones funcionales, seguras y escalables utilizando tecnologías como **Python, Django, PHP, Laravel, JavaScript, Node.js y SQL**, combinando conocimientos de desarrollo frontend, backend, bases de datos y administración de sistemas.
+Me interesa crear aplicaciones funcionales, seguras y escalables con tecnologías como **Java, Spring Boot, Python, Django, PHP, Laravel, Node.js, React, Tailwind CSS y SQL**, integrando **Inteligencia Artificial** y automatizaciones cuando aporten valor al negocio.
 
-* 🔭 Actualmente desarrollo landing pages, sistemas web y automatizaciones para clientes.
-* 🌱 Sigo actualizando mis conocimientos en **Django, Laravel, Node.js, redes y ciberseguridad**.
-* 💻 Desarrollo aplicaciones utilizando tecnologías frontend y backend.
-* 🗄️ Tengo conocimientos en bases de datos relacionales y consultas SQL.
+* 🔭 Actualmente desarrollo proyectos privados de sistemas web y automatizaciones.
+* 🌱 Sigo actualizando mis conocimientos en **Spring Boot, React, IA, n8n y ciberseguridad**.
+* 🗄️ Trabajo con **MySQL, PostgreSQL y SQL** para el diseño y consulta de bases de datos.
 * 🔐 Me interesa el análisis de vulnerabilidades y la seguridad de aplicaciones web.
 * 🌐 Tengo conocimientos en configuración y administración de redes.
 * 🐧 Me interesa la administración de sistemas Linux.
-* 🤝 Estoy abierto a colaborar en proyectos tecnológicos.
-* 🚀 Mi objetivo es seguir creciendo como desarrollador Full Stack y especialista en seguridad informática.
+* 🤝 Estoy abierto a colaborar en proyectos tecnológicos y a brindar asesoría remota.
+* 🚀 Mi objetivo es consolidarme como desarrollador freelance full stack, especializado en automatización y seguridad.
 
 ---
 
 ## 🏢 EG Engineering Group
 
-Soy el creador de **EG Engineering Group**, donde ofrezco desarrollo full stack a medida:
+Soy el creador de **EG Engineering Group**, con servicios de desarrollo y consultoría remota:
 
-* 🌐 Landing pages y sitios web responsivos
-* 🧩 Sistemas web full stack (frontend, backend y base de datos)
-* ⚙️ Automatizaciones de procesos y flujos de trabajo
-* 🔌 Integraciones y APIs entre sistemas
+* 🌐 Landing pages
+* 🛒 Tiendas online
+* 🧩 Sistemas de gestión a medida
+* ⚙️ Automatizaciones con n8n
+* 🤖 Bots de atención y automatización
+* 🧭 Asesoramiento técnico y desarrollo remoto
 
 ---
 
@@ -59,7 +64,7 @@ Soy el creador de **EG Engineering Group**, donde ofrezco desarrollo full stack 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" alt="Tecnologías frontend">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind" alt="Tecnologías frontend">
 
 </div>
 
@@ -69,7 +74,7 @@ Soy el creador de **EG Engineering Group**, donde ofrezco desarrollo full stack 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,php,laravel,nodejs" alt="Tecnologías backend">
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,php,laravel,nodejs" alt="Tecnologías backend">
 
 </div>
 
@@ -79,13 +84,25 @@ Soy el creador de **EG Engineering Group**, donde ofrezco desarrollo full stack 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Bases de datos">
 
 <br><br>
 
 <img src="https://img.shields.io/badge/SQL-Bases%20de%20datos-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+</div>
+
+<br>
+
+### 🤖 Automatización e Inteligencia Artificial
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/n8n-Automatizaciones-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+
+<img src="https://img.shields.io/badge/IA-Inteligencia%20Artificial-412991?style=for-the-badge" alt="Inteligencia Artificial">
 
 </div>
 
@@ -105,7 +122,7 @@ Soy el creador de **EG Engineering Group**, donde ofrezco desarrollo full stack 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,php,laravel,nodejs,mysql,git,github,linux,vscode" alt="Tecnologías y herramientas">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,java,spring,python,django,php,laravel,nodejs,mysql,postgres,git,github,linux,vscode" alt="Tecnologías y herramientas">
 
 </div>
 
@@ -148,16 +165,19 @@ Soy el creador de **EG Engineering Group**, donde ofrezco desarrollo full stack 
 ## 🚀 Áreas de interés
 
 ```text
-💻 Desarrollo Full Stack
-🎨 Desarrollo Frontend
-⚙️ Desarrollo Backend
+💻 Desarrollo Full Stack freelance
+🎨 Landing pages y tiendas online
+🧩 Sistemas de gestión (ERP) a medida
+☕ Java y Spring Boot
 🐍 Python y Django
-🐘 PHP y Laravel
-🟨 JavaScript y Node.js
-🗄️ SQL y bases de datos relacionales
+🐘 PHP, Laravel y Blade
+🟨 Node.js
+⚛️ React y Tailwind CSS
+🗄️ SQL, MySQL y PostgreSQL
+⚙️ Automatizaciones con n8n
+🤖 Bots e Inteligencia Artificial
 🌐 Redes y telecomunicaciones
-🔐 Ciberseguridad
-🧪 Pruebas de seguridad en aplicaciones web
+🔐 Ciberseguridad y seguridad en aplicaciones web
 🐧 Administración de sistemas Linux
 ```
 
@@ -168,31 +188,27 @@ Soy el creador de **EG Engineering Group**, donde ofrezco desarrollo full stack 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🌐 Aplicación web Full Stack</h3>
+      <h3 align="center">🏢 ERP con Java y Spring Boot</h3>
       <p align="center">
-        Aplicación web desarrollada utilizando tecnologías frontend, backend y una base de datos relacional.
+        Sistema ERP desarrollado con Java y Spring Boot, desplegado.
       </p>
       <p align="center">
-        <a href="https://github.com/edwargreoz?tab=repositories">
-          <img src="https://img.shields.io/badge/Ver%20proyecto-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver proyecto">
-        </a>
+        <img src="https://img.shields.io/badge/Proyecto-Privado-555555?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto privado">
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🐘 Proyecto PHP y Laravel</h3>
+      <h3 align="center">📅 Sistema de gestión de citas</h3>
       <p align="center">
-        Aplicación desarrollada con PHP, Laravel y SQL, aplicando una arquitectura organizada y buenas prácticas.
+        Sistema de gestión de citas desarrollado con PHP, Laravel y Blade.
       </p>
       <p align="center">
-        <a href="https://github.com/edwargreoz/sistema-citas">
-          <img src="https://img.shields.io/badge/Ver%20proyecto-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Ver proyecto Laravel">
-        </a>
+        <img src="https://img.shields.io/badge/Proyecto-Privado-555555?style=for-the-badge&logo=github&logoColor=white" alt="Proyecto privado">
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🐍 Proyecto Python y Django</h3>
+      <h3 align="center">🐍 Restaurante con Python y Django</h3>
       <p align="center">
         Aplicación web desarrollada con Python, Django y una base de datos SQL.
       </p>
@@ -202,6 +218,7 @@ Soy el creador de **EG Engineering Group**, donde ofrezco desarrollo full stack 
         </a>
       </p>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -209,19 +226,21 @@ Soy el creador de **EG Engineering Group**, donde ofrezco desarrollo full stack 
 
 ## 🎯 Objetivos profesionales
 
-* Ofrecer landing pages, sistemas web y automatizaciones de calidad a mis clientes.
-* Crear aplicaciones web modernas, seguras y escalables.
-* Mejorar mis habilidades en Python, Django, PHP y Laravel.
-* Profundizar mis conocimientos en SQL y gestión de bases de datos.
-* Ampliar mi experiencia en redes y telecomunicaciones.
-* Especializarme en ciberseguridad y seguridad de aplicaciones web.
-* Colaborar en proyectos tecnológicos que generen un impacto positivo.
+* Consolidar mi oferta de landing pages, tiendas online, sistemas de gestión y automatizaciones.
+* Crear sistemas empresariales escalables con Java, Spring Boot y Django.
+* Integrar Inteligencia Artificial y automatización en procesos de negocio.
+* Mantener la seguridad como parte de cada desarrollo.
+* Ofrecer desarrollo y asesoría remota a negocios y emprendedores.
 
 ---
 
 ## 🤝 Conecta conmigo
 
 <div align="center">
+
+💼 **Disponible para trabajo freelance remoto:** desarrollo, automatización y asesoramiento.
+
+<br>
 
 <a href="https://www.linkedin.com/in/edwar-agustín-gonzález-requejo-577956420">
   <img src="https://img.shields.io/badge/LinkedIn-Edwar%20Gonzalez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -236,4 +255,3 @@ Soy el creador de **EG Engineering Group**, donde ofrezco desarrollo full stack 
 </a>
 
 </div>
-
