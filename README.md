@@ -6,11 +6,11 @@
 
 ### 💻 Full Stack Developer | 🏢 Creador de EG Engineering Group | ⚙️ Automatizaciones | 🔐 Cybersecurity
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Creador+de+EG+Engineering+Group;Full+Stack+Developer;Landing+Pages+y+Sistemas+Web;Automatizaciones;Python+%7C+Django+Developer;PHP+%7C+Laravel+Developer;Networking+Student;Cybersecurity+Enthusiast;Always+Learning+New+Things" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Creador+de+EG+Engineering+Group;Full+Stack+Developer;Freelance+Web+Developer;Landing+Pages+y+Sistemas+Web;Automatizaciones;Python+%7C+Django+Developer;PHP+%7C+Laravel+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Things" alt="Typing SVG">
 
 <br>
 
-<img src="https://img.shields.io/badge/Ingeniería%20de%20Sistemas-IX%20Ciclo-007ACC?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Ingeniería de Sistemas">
+<img src="https://img.shields.io/badge/Freelance-Web%20%26%20Automatizaciones-007ACC?style=for-the-badge&logo=upwork&logoColor=white" alt="Freelance">
 
 <img src="https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 
@@ -26,12 +26,12 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **creador de EG Engineering Group**, donde desarrollo landing pages, sistemas web y automatizaciones a medida. También soy estudiante del **IX ciclo de Ingeniería de Sistemas**, apasionado por el desarrollo de software, las redes informáticas y la ciberseguridad.
+Soy **desarrollador freelance** y **creador de EG Engineering Group**, donde desarrollo landing pages, sistemas web y automatizaciones a medida para mis clientes. Me apasiona el desarrollo de software, las redes informáticas y la ciberseguridad.
 
 Me interesa crear aplicaciones funcionales, seguras y escalables utilizando tecnologías como **Python, Django, PHP, Laravel, JavaScript, Node.js y SQL**, combinando conocimientos de desarrollo frontend, backend, bases de datos y administración de sistemas.
 
-* 🔭 Actualmente desarrollo landing pages, sistemas web y automatizaciones, además de proyectos académicos.
-* 🌱 Continúo aprendiendo sobre **Django, Laravel, Node.js, redes y ciberseguridad**.
+* 🔭 Actualmente desarrollo landing pages, sistemas web y automatizaciones para clientes.
+* 🌱 Sigo actualizando mis conocimientos en **Django, Laravel, Node.js, redes y ciberseguridad**.
 * 💻 Desarrollo aplicaciones utilizando tecnologías frontend y backend.
 * 🗄️ Tengo conocimientos en bases de datos relacionales y consultas SQL.
 * 🔐 Me interesa el análisis de vulnerabilidades y la seguridad de aplicaciones web.
@@ -209,13 +209,13 @@ Soy el creador de **EG Engineering Group**, donde ofrezco desarrollo full stack 
 
 ## 🎯 Objetivos profesionales
 
-* Fortalecer mis conocimientos en desarrollo Full Stack.
+* Ofrecer landing pages, sistemas web y automatizaciones de calidad a mis clientes.
 * Crear aplicaciones web modernas, seguras y escalables.
 * Mejorar mis habilidades en Python, Django, PHP y Laravel.
 * Profundizar mis conocimientos en SQL y gestión de bases de datos.
-* Obtener más experiencia en redes y telecomunicaciones.
+* Ampliar mi experiencia en redes y telecomunicaciones.
 * Especializarme en ciberseguridad y seguridad de aplicaciones web.
-* Participar en proyectos tecnológicos que generen un impacto positivo.
+* Colaborar en proyectos tecnológicos que generen un impacto positivo.
 
 ---
 
